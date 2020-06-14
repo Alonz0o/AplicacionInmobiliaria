@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Aplicacion Inmobiliaria</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Opciones</string>
+
+    <!-- String activity-login -->
+    <string name="tituloLogin">Inicio de sesion</string>
+    <string name="prompt_email">Correo Electrónico</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_iniciar_sesion">Iniciar Sesion</string>
+    <string name="action_registrar">Registrar</string>
+    <string name="welcome">"Bienvenido !"</string>
+    <string name="invalid_username">Usuario no valido</string>
+    <string name="invalid_password">La Contraseña debe tener mas de 5 caracteres</string>
+    <string name="invalid_nombre">El Nombre debe tener mas de 30 caracteres</string>
+    <string name="login_fallo">"Error al iniciar sesion"</string>
+    <!--- String activity-login -->
+
+    <!-- String navegacion -->
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_perfil">Perfil</string>
+    <string name="menu_inmueble">Inmuebles</string>
+    <string name="detalle_inmuebles">Detalles del Inmueble</string>
+    <string name="menu_propietario">Propietario</string>
+    <string name="detalle_propietario">Detalles del Propietario</string>
+    <string name="menu_cerrarsesion">Cerrar Sesión</string>
+    <!-- String navegacion -->
+
+    <!-- Inmueble Inputs Strings -->
+    <string name="inputDireccion">Calle, Altura</string>
+    <string name="inputAmbientes">Ambientes</string>
+    <string name="inputSuperficie">Superficie m2</string>
+    <string name="inputLatitud">Latitud</string>
+    <string name="inputLongitud">Longitud</string>
+    <string name="checkPublicar">Publicar</string>
+    <string name="checkHabilitar">Habilitar</string>
+    <!-- Inmueble Inputs Strings -->
+
+    <!-- Tabas Inputs Strings -->
+    <string name="tab_text_1">Propietario</string>
+    <string name="tab_text_2">Inmuebles</string>
+</resources>
